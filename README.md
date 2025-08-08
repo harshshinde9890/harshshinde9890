@@ -50,7 +50,6 @@ A passionate Data Science enthusiast (Still Learning) 🚀
 ## 📊 Languages I Use
 ![Languages Pie Chart](https://quickchart.io/chart?c=%7Btype%3A%27pie%27%2Cdata%3A%7Blabels%3A%5B%27Jupyter%20Notebook%27%2C%27Python%27%2C%27HTML%27%2C%27CSS%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B50%2C30%2C15%2C5%5D%2CbackgroundColor%3A%5B%27%23f37726%27%2C%27%233776ab%27%2C%27%23e34c26%27%2C%27%23264de4%27%5D%7D%5D%7D%7D)
 
-
 ---
 ## 🎯 Fun Facts
 - ☕ I debug better after a cup of coffee
