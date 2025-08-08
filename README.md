@@ -16,6 +16,15 @@ A passionate Data Science enthusiast (Still Learning) 🚀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/your-username)
 
+<!-- Icon-style links -->
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/your-username" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" height="40" alt="GitHub"/>
+</a>
+
+
 
 ---
 
