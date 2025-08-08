@@ -4,8 +4,8 @@ A passionate Data Science enthusiast (Still Learning) 🚀
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Data Cleaning and Feature Engineering Projects**
-- 🌱 I’m currently learning **Machine Learning, Data Visualization & Deployment**
+- 🔭 I’m currently working on **Machine Learning, Data Visualization & Deployment**
+- 🌱 I’m currently learning **Natural Language processing, Computer Vision**
 - 💬 Ask me about **Python, Jupyter Notebook, HTML, CSS**
 - 📫 How to reach me: **[Your Email or LinkedIn link here]**
 - ⚡ Fun fact: *I love turning messy data into meaningful insights!*
