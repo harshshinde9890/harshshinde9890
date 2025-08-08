@@ -47,6 +47,17 @@ A passionate Data Science enthusiast (Still Learning) 🚀
 - ❤️ [Heart Disease Prediction](https://github.com/your-username/heart-disease-prediction) — ML model for early disease detection  
 - 🧑‍💼 [Employee Recruitment & HR Analysis](https://github.com/your-username/hr-analysis) — Analyze candidate profiles for hiring decisions  
 
+## 📊 Languages I Use
+![Languages Pie Chart](https://quickchart.io/chart?c={
+  type:'pie',
+  data:{
+    labels:['Jupyter Notebook','Python','HTML','CSS'],
+    datasets:[{
+      data:[50,30,15,5],
+      backgroundColor:['#f37726','#3776ab','#e34c26','#264de4']
+    }]
+  }
+})
 
 ---
 ## 🎯 Fun Facts
