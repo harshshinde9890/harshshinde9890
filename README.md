@@ -40,14 +40,14 @@ A passionate Data Science enthusiast (Still Learning) 🚀
 | **Database**           | ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) |
 
 
-## 📊 GitHub Stats
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
+
+## 🚀 Featured Projects
+- 🏠 [Flat Price Prediction](https://github.com/your-username/flat-price-prediction) — Predict real-estate prices using ML  
+- ❤️ [Heart Disease Prediction](https://github.com/your-username/heart-disease-prediction) — ML model for early disease detection  
+- 🧑‍💼 [Employee Recruitment & HR Analysis](https://github.com/your-username/hr-analysis) — Analyze candidate profiles for hiring decisions  
 
 
 ---
 
-## 📊 GitHub Languages by Repo
-![Languages](https://your-generated-pie-chart-link.png)
 
