@@ -48,7 +48,8 @@ A passionate Data Science enthusiast (Still Learning) 🚀
 - 🧑‍💼 [Employee Recruitment & HR Analysis](https://github.com/your-username/hr-analysis) — Analyze candidate profiles for hiring decisions  
 
 ## 📊 Languages I Use
-![Languages Pie Chart](https://quickchart.io/chart?c={type:'pie',data:{labels:['Jupyter Notebook','Python','HTML','CSS'],datasets:[{data:[50,30,15,5],backgroundColor:['#f37726','#3776ab','#e34c26','#264de4']}]},options:{plugins:{legend:{labels:{font:{size:12}}}}}}&width=300&height=300)
+![Languages Pie Chart](https://quickchart.io/chart?c=%7Btype%3A%27pie%27%2Cdata%3A%7Blabels%3A%5B%27Jupyter%20Notebook%27%2C%27Python%27%2C%27HTML%27%2C%27CSS%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B50%2C30%2C15%2C5%5D%2CbackgroundColor%3A%5B%27%23f37726%27%2C%27%233776ab%27%2C%27%23e34c26%27%2C%27%23264de4%27%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Blabels%3A%7Bfont%3A%7Bsize%3A12%7D%7D%7D%7D%7D%7D&width=300&height=300)
+
 
 ---
 ## 🎯 Fun Facts
