@@ -49,5 +49,7 @@ A passionate Data Science enthusiast (Still Learning) 🚀
 
 
 ---
-
-
+## 🎯 Fun Facts
+- ☕ I debug better after a cup of coffee
+- 🏃 I run almost daily — coding and running are my cardio
+- 🛠️ I believe **"Learning by doing"** is the best approach
