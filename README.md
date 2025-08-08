@@ -7,14 +7,13 @@ A passionate Data Science enthusiast (Still Learning) 🚀
 - 🔭 I’m currently working on **Machine Learning, Data Visualization & Deployment**
 - 🌱 I’m currently learning **Natural Language processing, Computer Vision**
 - 💬 Ask me about **Python, Jupyter Notebook, HTML, CSS**
-- 📫 How to reach me: **[Your Email or LinkedIn link here]**
 - ⚡ Fun fact: *I love turning messy data into meaningful insights!*
 
 ---
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-shinde-44519626a/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/harshshinde9890)
 
 <!-- Icon-style links -->
 <a href="https://www.linkedin.com/in/your-profile" target="_blank">
